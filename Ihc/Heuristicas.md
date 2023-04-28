@@ -25,12 +25,13 @@ As interfaces não devem conter informações irrelevantes ou raramente necessá
 # Nº 9: Ajude os usuários a reconhecer, diagnosticar e recuperar-se de erros
 As mensagens de erro devem ser expressas em linguagem simples (sem códigos de erro), indicar com precisão o problema e sugerir uma solução de forma construtiva.
 
-- 1 Exemplo da amazon de erro simples e com solução direta, caso o usuario tente comprar um chinelo sem escolher o tamanho
+- 1 Exemplo da amazon de erro simples e com solução direta, caso o usuario tente comprar um chinelo sem escolher o tamanho:
 <img src="../img/h9-1.png" alt="https://www.amazon.com.br/Havaianas-Kids-Top-27-28/dp/B003WF3PFM/ref=sr_1_4?m=A1ZZFT5FULY4LN&pd_rd_r=5eba958d-d075-46ef-8587-44fdf7c935c7&pd_rd_w=jfv1K&pd_rd_wg=xHG7D&pf_rd_p=b4a1e3a5-897c-4323-beb2-0716e9a86633&pf_rd_r=FM1BHA13SR1NK55WGFT5&qid=1682687004&refinements=p_6%3AA1ZZFT5FULY4LN&s=apparel&sr=1-4">
 
 # Nº 10: Ajuda e documentação
 É melhor que o sistema não precise de nenhuma explicação adicional. No entanto, pode ser necessário fornecer documentação para ajudar os usuários a entender como concluir suas tarefas.
 
+- 1 Exibição na hora de pagar da Amazon, mostrando as imagens dos tipos de cartão permitidos:
 <img src="../img/h10-1.png" alt="https://www.amazon.com.br/Havaianas-Kids-Top-27-28/dp/B003WF3PFM/ref=sr_1_4?m=A1ZZFT5FULY4LN&pd_rd_r=5eba958d-d075-46ef-8587-44fdf7c935c7&pd_rd_w=jfv1K&pd_rd_wg=xHG7D&pf_rd_p=b4a1e3a5-897c-4323-beb2-0716e9a86633&pf_rd_r=FM1BHA13SR1NK55WGFT5&qid=1682687004&refinements=p_6%3AA1ZZFT5FULY4LN&s=apparel&sr=1-4">
 
 
