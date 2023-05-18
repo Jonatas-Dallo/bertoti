@@ -2,7 +2,10 @@
 O design deve sempre manter os usuários informados sobre o que está acontecendo, por meio de feedback apropriado em um período de tempo razoável.
 
 1 - Interface que apresenta qual aula está, sem precisar explicar para o usuario do sistema
-<img src="../img/h1-1.png">
+<details>
+  <summary>> </summary>
+  <img src="../img/h1-1.png">
+</details>
 
 2 - Youtube exibindo os videos a direita, para que saiba em qual está e qual serão os próximos
 <img src="../img/h1-2.png">
