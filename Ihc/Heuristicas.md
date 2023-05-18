@@ -5,10 +5,10 @@ O design deve sempre manter os usuários informados sobre o que está acontecend
 <img src="../img/h1-1.png">
 
 2 - Youtube exibindo os videos a direita, para que saiba em qual está e qual serão os próximos
-<img src="../img/h2-1.png">
+<img src="../img/h1-2.png">
 
 3 - Playlist do Spotify mostrando as musicas que vão tocar, autor, tempo e outras informações relevantes
-<img src="../img/h2-3.png">
+<img src="../img/h1-3.png">
 
 # 2: Correspondência entre o sistema e o mundo real
 O design deve falar a linguagem dos usuários. Use palavras, frases e conceitos familiares ao usuário, em vez de jargões internos. Siga as convenções do mundo real, fazendo com que as informações apareçam em uma ordem natural e lógica.
