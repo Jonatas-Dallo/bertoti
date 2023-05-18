@@ -70,7 +70,7 @@ Minimize a carga de memória do usuário tornando elementos, ações e opções 
 <img src="../img/h6-2.png">
 
 3 - Disponibilização do caminho que o usuario fez para chegar ali, tornando desncessário o usuario ter que decorar
-<img src="../img/h6-3.png">
+<img src="../img/h6-3.jpg">
 
 # Nº 7: Flexibilidade e eficiência de uso
 Atalhos — ocultos para usuários novatos — podem acelerar a interação do usuário experiente para que o design possa atender tanto a usuários experientes quanto inexperientes. Permita que os usuários personalizem ações frequentes.
