@@ -37,9 +37,6 @@ Os usuários geralmente executam ações por engano. Eles precisam de uma "saíd
 # Nº 4: Consistência e padrões
 Os usuários não devem se perguntar se diferentes palavras, situações ou ações significam a mesma coisa. Siga as convenções da plataforma e do setor.
 
-0 - Exemplo não relacionado a site
-<img src="../img/h4.png">
-
 1 - Padronização da plataforma se mantendo mesmo acessando áreas diferentes
 <img src="../img/h4-1.png">
 
